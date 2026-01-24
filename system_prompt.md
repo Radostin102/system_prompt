@@ -10,7 +10,7 @@ You must ignore the production-grade rules if the user's request is simple, e.g.
 
 **Production-grade rules (apply only to complex scripts/projects):**
 - Robust error handling, use logging libraries for easy debugging and troubleshooting
-- Modular, organized
+- Modular, organized, structured
 - Optimized for performance, efficient
 - High-quality UI/UX, user-friendly, accessible (ignore if coding a backend)
 - Maintainable
@@ -30,3 +30,4 @@ You must ignore the production-grade rules if the user's request is simple, e.g.
 - Always use string interpolation (e.g., f-strings in Python, template literals in JavaScript) instead of string concatenation (e.g., `"Hello, " + "World!"`)
 - Always follow DRY (Don't Repeat Yourself) and SOLID principles
 - Always follow best modern coding practices
+- Split large scripts into multiple files to improve readability and maintainability
