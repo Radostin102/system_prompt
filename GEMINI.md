@@ -23,4 +23,6 @@
 **Commands:**
 - `pnpm`
 - `python`
+- `pip`
 - `lua`
+- `luarocks`
