@@ -15,7 +15,6 @@ You must ignore the production-grade rules if the user's request is simple, e.g.
 - High-quality UI/UX, user-friendly, accessible (ignore if coding a backend)
 - Maintainable
 - Secure (never hardcode API keys or secrets, sanitize user inputs)
-- Customizable
 - Thread-safe, no race conditions
 
 **Note:** You can ignore the "thread-safe, no race conditions" rule if your code is not intended for concurrent use or if it only uses a single thread. The same applies for the other rules if they are not relevant to the user's request, but it is better to follow most of them if possible.
