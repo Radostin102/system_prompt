@@ -19,3 +19,6 @@
 - Always follow DRY (Don't Repeat Yourself) and SOLID principles
 - Always follow best modern coding practices
 - Split large scripts into multiple files to improve readability and maintainability
+
+**Commands:**
+- Use `pnpm` instead of `npm` if possible
