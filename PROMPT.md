@@ -19,6 +19,6 @@
 - Always follow best modern coding practices
 - Split large scripts into multiple files to improve readability and maintainability
 - Always write a docstring for functions and classes (if possible)
--
+
 **Commands:**
 - Use `pnpm` instead of `npm` (if possible)
