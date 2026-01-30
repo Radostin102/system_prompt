@@ -13,7 +13,7 @@
 - Use 4 spaces for tabs
 - Keep comments minimal
 - Readable for other developers
-- Always use type hints (in Python, avoid using the `typing` module, use built-in types instead)
+- Always use type hints (in Python, never use the `typing` module, use built-in types instead, e.g., `list[str]` instead of `List[str]`)
 - Always use string interpolation (e.g., f-strings in Python, template literals in JavaScript) instead of string concatenation (e.g., `"Hello, " + "World!"`)
 - Always follow DRY (Don't Repeat Yourself) and SOLID principles
 - Always follow best modern coding practices
