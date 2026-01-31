@@ -25,3 +25,4 @@ You must always follow these rules when generating code.
 
 **Commands:**
 - Always use `pnpm` instead of `npm` (if possible)
+- Always use `python -m pip` instead of `pip`
