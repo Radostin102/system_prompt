@@ -1,5 +1,7 @@
 ## Rules 123
 
+You must always follow these rules.
+
 **The code you generate must be production-grade:**
 - Robust error handling, use logging libraries for easy debugging and troubleshooting
 - Modular, organized, structured, maintainable
