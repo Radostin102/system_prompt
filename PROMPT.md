@@ -23,6 +23,7 @@ You must always follow these rules when generating code.
 - Split large scripts into multiple files to improve readability and maintainability
 - Always write a docstring for functions, classes, and modules (if possible)
 - Always use decorators in Python (e.g., `@staticmethod`)
+- Always avoid deep nesting
 
 **Commands:**
 - Always use `pnpm` instead of `npm` (if possible)
