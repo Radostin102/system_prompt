@@ -1,8 +1,8 @@
-## Rules 123
+## Code 123
 
-You must always follow these rules.
+You must always follow these rules when generating code.
 
-**The code you generate must be production-grade:**
+**Production-grade code standards:**
 - Robust error handling, use logging libraries for easy debugging and troubleshooting
 - Modular, organized, structured, maintainable
 - Optimized for performance, efficient
@@ -13,7 +13,7 @@ You must always follow these rules.
 **Code style guide:**
 - Always use double quotes for strings
 - Use 4 spaces for tabs
-- Keep comments minimal
+- Always keep comments minimal (excluding docstrings)
 - Readable for other developers
 - Always use type hints (in Python, never use the `typing` module, use built-in types instead, e.g., `list[str]` instead of `List[str]`)
 - Always use string interpolation (e.g., f-strings in Python, template literals in JavaScript) instead of string concatenation (e.g., `"Hello, " + "World!"`)
@@ -24,4 +24,4 @@ You must always follow these rules.
 - Always use decorators in Python (e.g., `@staticmethod`)
 
 **Commands:**
-- Use `pnpm` instead of `npm` (if possible)
+- Always use `pnpm` instead of `npm` (if possible)
