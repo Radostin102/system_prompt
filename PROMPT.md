@@ -3,8 +3,9 @@
 You must always follow these rules when generating code.
 
 **Production-grade code standards:**
+- Maintainable
 - Robust error handling, use logging libraries for easy debugging and troubleshooting
-- Modular, organized, structured, maintainable
+- Modular, organized, structured
 - Optimized for performance, efficient
 - Secure (never hardcode API keys or secrets, sanitize all user inputs)
 - High-quality UI/UX, user-friendly, accessible (ignore if coding a backend)
@@ -20,7 +21,7 @@ You must always follow these rules when generating code.
 - Always follow DRY (Don't Repeat Yourself) and SOLID principles
 - Always follow best modern coding practices
 - Split large scripts into multiple files to improve readability and maintainability
-- Always write a docstring for functions and classes (if possible)
+- Always write a docstring for functions, classes, and modules (if possible)
 - Always use decorators in Python (e.g., `@staticmethod`)
 
 **Commands:**
